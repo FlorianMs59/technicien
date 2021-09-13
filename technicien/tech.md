@@ -133,6 +133,75 @@ Lors de vos SAV, vous devez:
 - remplacement de l'équipement Linkt si HS
 - Support aux utilisateur: explication au client de l'utilisation de sa solution.
 
+# L'analyse des pannes
+
+Cas T0/T2/TrunkSIP:
+
+    votre équipement est il joignable en ssh ?
+    les branchement sont ils correct ?
+    lancement d'un test de com depuis l'iad
+
+cas centrex:
+
+    le poste est il correctement déclarer sur la Metaview
+
+<table>
+<tr>
+    <td></td>
+    <td>Nb de TP</td>
+    <td>Durée moyenne sur site</td>
+</tr>
+<tr>
+    <td>Visite technique</td>
+    <td>1</td>
+    <td>30min</td>
+</tr>
+<tr>
+    <td>Visite technique + MAD</td>
+    <td>1</td>
+    <td>1h30</td>
+</tr>
+<tr>
+    <td>Accompagnement OBL</td>
+    <td>1</td>
+    <td>2H</td>
+</tr>
+<tr>
+    <td>MAD</td>
+    <td>1</td>
+    <td>1h</td>
+</tr>
+<tr>
+    <td>MES 1 CPE</td>
+    <td>1</td>
+    <td>1h30</td>
+</tr>
+<tr>
+    <td>MES 2 CPE</td>
+    <td>1</td>
+    <td>2h</td>
+</tr>
+<tr>
+    <td>MES 2 CPE et moins de 10 tel</td>
+    <td>1</td>
+    <td>4h</td>
+</tr>
+<tr>
+    <td>MES 2 CPE et de 10 a 20 tel</td>
+    <td>1</td>
+    <td>8h</td>
+</tr>
+<tr>
+    <td>MES 2 CPE et plus de 20 tel</td>
+    <td>2</td>
+    <td>8H</td>
+</tr>
+<tr>
+    <td>SAV</td>
+    <td>1</td>
+    <td>1h</td>
+</tr>
+</table>
 
 
 
