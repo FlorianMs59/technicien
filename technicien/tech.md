@@ -77,3 +77,10 @@ Soignez la !
 
 
 
+# La VT: les taches à effectuer par le TP
+
+1. PRévenir le CC dès son arrivée sur site
+2. Se présenter
+3. demander à voir le lieu ou vont être installés les équipements et ou se trouvent la salle serveur, la baie
+4. Recueillir les infos nécesaires pour pouvoir procéder à la mise à disposition, prendre photos, remplir le CR de VT
+5. Expliquer au client les modifications qui seront réalisées sur son infrastructure
