@@ -52,14 +52,27 @@
 * La mise à disposition
     * Créer le lien jusqu'au site client
 * La mise à disposition Linkt
-    * Installer les routeurs
-    * + Prise en main à distance
-    * + Tests de débit
+    * Installer les routeurs +
+    * Prise en main à  +
+    * Tests de débit
     * CR d'intervention
 * La mise en service
-    * Tester le service avec le client
-    * + CR d'intervention
-    
+    * Tester le service avec le client +   
+    * CR d'intervention
+
+###  Vous êtes l'image de Linkt, vos comportement doivent être adapatés aux vaeurs de notre entreprise.
+
+* Ponctualité:
+    * Prévenir le CC de son arrivée sur site;
+    * Prévenir le CC en cas de retard, ainsi ce dernier préviendra le client.
+* Comportement vis-à-vis du client;
+    * Adapter votre comportement au client afin de rassurer;
+         * Face à un profane, utilisez des phrase sans jargon. Des phrases faciles à comprendre. Soyez avenant, rassurant, souriant.
+         * Face à un spécialiste des systèmes d'informations, exprimez votre savoir, utilisez le jargon. Soyez avenant et rassurant, nous nous sommes compris....
+* La tenue vestimentaire, évidemment, est l'image de l'entreprise. 
+Soignez la !
+
+
 
 
 
