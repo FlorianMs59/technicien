@@ -84,3 +84,21 @@ Soignez la !
 3. demander à voir le lieu ou vont être installés les équipements et ou se trouvent la salle serveur, la baie
 4. Recueillir les infos nécesaires pour pouvoir procéder à la mise à disposition, prendre photos, remplir le CR de VT
 5. Expliquer au client les modifications qui seront réalisées sur son infrastructure
+6. indiquer au client, la suite des étapes qui vont être effectuées
+7. envoyer les CR signé par le client
+
+# Avant intervention
+
+Le cc crée une demande d'intervention via la ref Tech. Celle-ci est validée par l'équipe planification et une invitation est envoyée au TP de la zone géographique concernée.
+
+    * Avant chaque intervention, le TP et le CC doivent échanger sur le dossier cient
+    * a son arrivé sur site, prévenir le CC par teams
+
+Le coordinateur client, doit recueillir les informations suiantes afin de les transmettre au TP avant la visite technique:
+
+* Nom du contact et son nuéro de tel
+* adress
+* technologies et services à mettre en place
+* Les interlocuteur
+* schéma d'architecture en place ou cible
+
