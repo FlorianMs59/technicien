@@ -44,10 +44,22 @@
     - Faire signer et envoyer le CR avant de quitter le site du client
     - Appeler le CC avant de partir de chez le client
 
+# Rappels
 
-
-
-
+* La visite technique
+    * Recueillir les infos
+    * CR de VT + Photos
+* La mise à disposition
+    * Créer le lien jusqu'au site client
+* La mise à disposition Linkt
+    * Installer les routeurs
+    * + Prise en main à distance
+    * + Tests de débit
+    * CR d'intervention
+* La mise en service
+    * Tester le service avec le client
+    * + CR d'intervention
+    
 
 
 
