@@ -73,10 +73,6 @@
 Soignez la !
 
 
-
-
-
-
 # La VT: les taches à effectuer par le TP
 
 1. PRévenir le CC dès son arrivée sur site
@@ -104,4 +100,46 @@ Le coordinateur client, doit recueillir les informations suiantes afin de les tr
 
 (Désserte simple: 30/40 mètres. Pas de percement, pas de passage en faux plafond, pas au delas de 2,50m de haut)
 
- # La Mise en Service
+## La Mise en Service
+
+A quoi ca sert ?
+
+    Elle permet au client de pouvoir migrer et utiliser le service souscrit.
+
+Que faisons nous ?
+
+    Le TP prend la main à distance sur le routeur et effectues les tests. (Pour de la voix, on effectue la poetabilité).
+
+Dans quel cas on le fait ?
+
+    Intervention sur le site si architecture compliquée avec de la voix. Pour les cas simples, le technicien de proximité n'intervient pas.
+
+# La migration
+
+Elle a lieu dans le cadre d'un changement d'opérateur.
+
+S'il s'agit d'une création: pas de migration
+
+En cas de migration VPN, il faut alors éteindre l'ancien équipement opérateur au moment de la migration LAN aprés avoir prévenu de la coupure.
+En cas de migration INTERNET, il faut laisser l'ancien équipement opérateur fonctionnelle mais basculé le service après avoir prévenu de la coupure.
+En cas de Portabilité, il faut laisser l'ancien équipement opérateur fonctionnelle et basculé le service après avoir prévenu de la coupure.
+
+# Les SAV
+
+Lors de vos SAV, vous devez:
+
+- réaliser un diag sur site
+- vérifier et modifier la conf
+- remplacement de l'équipement Linkt si HS
+- Support aux utilisateur: explication au client de l'utilisation de sa solution.
+
+
+
+
+
+
+
+
+
+
+
