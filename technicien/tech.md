@@ -204,6 +204,46 @@ cas centrex:
 </table>
 
 
+# Les EPI
+
+## Toujours avoir le EPI dans la voiture:
+
+* Chaussures de sécurité
+* Gilet jaune
+* casque de protection
+* Lunettes de protection
+* Gants de protection
+
+## Habilitations
+
+* Habilitation électrique et risque chimiques
+* Toujours avoir les documents certifiant l'habilitation + la carte d'habilitations signer de Linkt dans le Partner
+
+# Les prestataires
+
+* Lors de MES centrex importantes, vous pourrez être assisté par un technicien de nos prestataires.
+* Dans ce cadre vous endossez la responsabilité de l'intervention. Autrement dit vous diriger l'inter
+* Le prestataire quittera le site avec votre acord et celui du CC.
+* Les prestataires interviendront principalement sur les intervention a faible valeur ajouter, nous vous réservons les interventions a forte valeur ajouter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
