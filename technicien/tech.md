@@ -102,3 +102,5 @@ Le coordinateur client, doit recueillir les informations suiantes afin de les tr
 * Les interlocuteur
 * schéma d'architecture en place ou cible
 
+(Désserte simple: 30/40 mètres. Pas de percement, pas de passage en faux plafond, pas au delas de 2,50m de haut)
+
