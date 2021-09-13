@@ -29,21 +29,25 @@
 
 ## Les incontournables de la journée du technicien de proximité
 
-1. Préparer son intervention 
+## 1. Préparer son intervention 
 
     - La veille:
+    - Regarder son planning pour le lendemain
+    - Contacter les CC pour avoir les infos et lever les doutes
+    - Mettre la configuration sur son PC
 
-        - Regarder son planning pour le lendemain
-        - Contacter les CC pour avoir les infos et lever les doutes
-        - Mettre la configuration sur son PC
-
-2. Le jour J
+## 2. Le jour J
 
     - Partir de la BU à 8h50
     - Arriver à l'heure chez le client, si retard prévenir le CC
     - Envoyer un message au CC en arrivant chez le client
     - Faire signer et envoyer le CR avant de quitter le site du client
     - Appeler le CC avant de partir de chez le client
+
+
+
+
+
 
 
 
